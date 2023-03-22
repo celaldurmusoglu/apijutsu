@@ -1,3 +1,3 @@
 # apijutsu
 ## apijutsu Mobile API Platform App 
-![apijutsu-mockup](https://user-images.githubusercontent.com/52425820/226907260-a6c51aa2-3f9f-49c6-8ccd-b63296e444ce.jpeg)
+![apijutsu-mockup](https://user-images.githubusercontent.com/52425820/226911894-86eab2b1-f9ef-4f71-969a-870e13df9584.jpeg)
