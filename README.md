@@ -15,5 +15,5 @@
 | ------------- | ------------- |
 | [OkHttp](https://github.com/square/okhttp/)  | Apache 2.0  |
 
-## License Details
+
 
