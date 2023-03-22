@@ -16,4 +16,4 @@
 | [OkHttp](https://github.com/square/okhttp/)  | Apache 2.0  |
 
 ## License Details
-The licence for this repository is a GNU Affero General Public Licence version 3 (SPDX: AGPL-3.0). Please see the LICENSE file for full reference.
+
